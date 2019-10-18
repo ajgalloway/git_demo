@@ -2,6 +2,7 @@ public class main {
     public static void main(String args[]) {
 
         System.out.println("FizzBuzz Start");
+		System.out.println("OOF");
 
         for(int i = 0; i < 100; i++) {
             if ((i % 15) == 0) {
